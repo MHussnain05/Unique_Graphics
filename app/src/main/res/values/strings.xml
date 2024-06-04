@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="whatsapp">Whatsapp</string>
+    <string name="whatsapplogo">whatsapplogo</string>
+    <string name="image">Image</string>
+</resources>
